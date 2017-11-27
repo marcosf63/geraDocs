@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+__init__	../mark2html.py	/^  def __init__(self):$/;"	kind:member	line:11
+__init__.py	../__init__.py	1;"	kind:file	line:1
+gera_html	../mark2html.py	/^  def gera_html(string_markdown):$/;"	kind:member	line:22
+ler_markdown	../mark2html.py	/^  def ler_markdown(nome_do_arquivo):$/;"	kind:member	line:15
+m	../main.py	/^m = mk.ler_markdown('teste.md')$/;"	kind:variable	line:3
+main.py	../main.py	1;"	kind:file	line:1
+mark2html	../mark2html.py	/^class mark2html:$/;"	kind:class	line:6
+mark2html.py	../mark2html.py	1;"	kind:file	line:1
+markdown	../mark2html.py	/^import markdown$/;"	kind:namespace	line:4
+mk	../main.py	/^from mark2html import mark2html as mk$/;"	kind:namespace	line:1
+os	../mark2html.py	/^import os$/;"	kind:namespace	line:3
+renderiza_template	../mark2html.py	/^  def renderiza_template(template, html_gerado):$/;"	kind:member	line:27
+test.py	../test.py	1;"	kind:file	line:1
